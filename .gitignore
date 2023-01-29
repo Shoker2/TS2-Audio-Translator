@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+eng/
+ru/
+config.ini
+log_records.csv
