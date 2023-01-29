@@ -4,3 +4,4 @@ eng/
 ru/
 config.ini
 log_records.csv
+auto-py-to-exe.json

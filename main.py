@@ -268,6 +268,8 @@ def recognition_main(general, translate):
 
 if __name__ == '__main__':
 	try:
+		multiprocessing.freeze_support()
+
 		global config
 		config = Configure('./config.ini')
 
